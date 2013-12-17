@@ -1,3 +1,12 @@
 #todoList {
 	margin-top: 20px;
 }
+
+.todo-text {
+	display: inline-block;
+	width: 95%;
+}
+
+.remove-icon {
+	cursor: pointer;
+}
